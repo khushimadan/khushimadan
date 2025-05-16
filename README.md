@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Khushi Madan
+# 👋 Hi there, I'm Khushi Madan
 
 ## 👩‍💻 About Me
 
