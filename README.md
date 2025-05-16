@@ -57,10 +57,12 @@ ML model using Logistic Regression with ~90% accuracy on the UCI dataset
 
 #### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-blue?style=flat)
 
 #### Web & App Development
