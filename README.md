@@ -37,7 +37,7 @@ ML model using Logistic Regression with ~90% accuracy on the UCI dataset
 - 💬 Run a **community group** to update juniors on **latest internship opportunities, tech content, free resources etc.**
 - 💡 Mentor peers on AI/ML, Dev, Resume Building etc.
   
-👩‍🏫 **Section Leader @ Stanford's Code in Place 2025** 
+👩‍🏫 **Section Leader @ Stanford University's Code in Place 2025** 
 
 I lead weekly Python sessions for global learners, mentoring them through the CS106A curriculum. I solve problems, debug code, and help students with their assignments.
 
