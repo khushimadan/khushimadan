@@ -104,7 +104,7 @@ Created dashboards using **Power BI** and automated workflows with **Python**, s
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushimadan&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" />
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=khushimadan&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=khushimadan&theme=radical&no-frame=true&title=Stars,Commits,Followers,Repositories" alt="Trophies" />
 
 </div>
 
