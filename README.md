@@ -1,33 +1,19 @@
 ## 👋 Hi there, I'm Khushi Madan
 
-🎓 B.Tech (Hons) CSE AI & ML @ Manipal University Jaipur (2022–2026)  
-📍 Based in Delhi, India | 👩‍🏫 Section Leader @ Stanford Code in Place 2025  
-📊 Ex Data Analyst Intern @ Arcadis 
-💡 Passionate about AI, Machine Learning, Full-stack and Android/IOS Dev
+## 👩‍💻 About Me
+
+🎓 I'm a **third-year CSE undergrad** at *Manipal University Jaipur*, specializing in **Artificial Intelligence & Machine Learning**.  
+💡 I love building real-world tech that makes an impact — from smart apps and intelligent systems to automation tools and AI solutions.
 
 ---
 
-### 🧠 About Me
-- 📌 **Technical Lead** at Google Developer Groups - MUJ
-- 🏅 Finalist, **Hack to Hire Hackathon** by Dell Technologies
-- 🌱 Currently learning: Data Structures and Algorithms, AI, and ML
-- 🧑‍🏫 Volunteered to teach Python to a section of 14 learners at **Stanford’s Code in Place**
+### 🚧 What I'm Working On
+📱 **FixMyCity** — A Flutter-based civic issue-reporting app  
+🔗 Uses **Firebase** for real-time tracking and **MobileNetV2** to predict complaint criticality, helping cities resolve complaints smarter & faster.
 
 ---
 
-### 💼 Experience
-
-**🔹 Data Analyst Intern** — *Arcadis, Gurugram (Jul–Sep 2024)*  
-- Created dashboards using **Power BI** and Python (Seaborn, Matplotlib)  
-- Automated reports with **Pandas** scripts, saving 15+ hours/week  
-
-**🔹 Section Leader (Volunteer)** — *Stanford University (Apr 2025–Present)*  
-- Taught Python to global learners via Zoom as part of **Code in Place 2025**  
-- Led live sessions and helped with assignments and debugging  
-
----
-
-### 🔨 Projects
+### 🤖 My Favorite Builds
 
 #### 🔐 [Zero Trust Password](https://github.com/khushimadan/Zero-Trust-Password)
 Full-stack web app for secure password evaluation  
@@ -46,6 +32,22 @@ ML model using Logistic Regression with ~90% accuracy on the UCI dataset
 
 ---
 
+### 🌍 Beyond Code
+
+👩‍🏫 **Section Leader @ Stanford's Code in Place 2025**  
+I lead weekly Python sessions for global learners, mentoring them through the CS106A curriculum. I solve problems, debug code, and help students with their assignments.
+
+📊 **Ex Data Analyst Intern @ Arcadis**  
+Created dashboards using **Power BI** and automated workflows with **Python**, saving hours of manual effort and improving analytics.
+
+---
+
+### ⚒️ Always Exploring
+🧩 Sharpening my DSA skills    
+📡 Staying plugged into the latest in **AI/ML, dev, and tech for good**
+
+---
+
 ### 🚀 Tech Stack
 
 #### Programming Languages
@@ -59,9 +61,7 @@ ML model using Logistic Regression with ~90% accuracy on the UCI dataset
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-blue?style=flat)
 
