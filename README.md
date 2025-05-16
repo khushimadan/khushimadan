@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Khushi Madan
-
-## 👩‍💻 About Me
+## 👋 Hi there, I'm Khushi Madan
 
 🎓 I'm a **third-year CSE undergrad** at *Manipal University Jaipur*, specializing in **Artificial Intelligence & Machine Learning**.  
 💡 I love building real-world tech that makes an impact — from smart apps and intelligent systems to automation tools and AI solutions.
@@ -33,7 +31,12 @@ ML model using Logistic Regression with ~90% accuracy on the UCI dataset
 ---
 
 ### 🌍 Beyond Code
-
+👩‍💼 **Technical Lead @ Google Developer Groups on Campus MUJ**
+- 🎤 Host tech events, workshops, and hackathons
+- 👥 Lead a **team of 7 junior tech enthusiasts** in our technical team
+- 💬 Run a **community group** to update juniors on **latest internship opportunities, tech content, free resources etc.**
+- 💡 Mentor peers on AI/ML, Dev, Resume Building etc.
+  
 👩‍🏫 **Section Leader @ Stanford's Code in Place 2025**  
 I lead weekly Python sessions for global learners, mentoring them through the CS106A curriculum. I solve problems, debug code, and help students with their assignments.
 
