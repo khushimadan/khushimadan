@@ -92,8 +92,21 @@ Created dashboards using **Power BI** and automated workflows with **Python**, s
 
 ### 📈 GitHub Stats
 
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushimadan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushimadan&layout=compact&theme=radical)
+<div align="center">
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=khushimadan&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=khushimadan&show_icons=true&theme=radical&border_radius=10&hide_border=false&count_private=true&include_all_commits=true&hide=issues" alt="Khushi's GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushimadan&layout=compact&theme=radical&border_radius=10&hide_border=false" alt="Top Languages" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=khushimadan&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories" alt="Trophies" />
+
+</div>
 
 ---
 
